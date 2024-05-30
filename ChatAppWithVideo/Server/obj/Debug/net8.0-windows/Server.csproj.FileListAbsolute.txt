@@ -1,0 +1,16 @@
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.Server.resources
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\kledk\source\repos\ChatAppWithVideo\Server\obj\Debug\net8.0-windows\ref\Server.dll
