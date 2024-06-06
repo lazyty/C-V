@@ -1,0 +1,11 @@
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\bin\Debug\net8.0\TcpServerClient.deps.json
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\bin\Debug\net8.0\TcpServerClient.dll
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\bin\Debug\net8.0\TcpServerClient.pdb
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\TcpServerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\TcpServerClient.AssemblyInfoInputs.cache
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\TcpServerClient.AssemblyInfo.cs
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\TcpServerClient.csproj.CoreCompileInputs.cache
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\TcpServerClient.dll
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\refint\TcpServerClient.dll
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\TcpServerClient.pdb
+C:\Users\kledk\source\repos\22520308_BT-Mon\22520308-Chat_Client_Server\TCPServerClient\obj\Debug\net8.0\ref\TcpServerClient.dll
